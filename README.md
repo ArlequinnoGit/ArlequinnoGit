@@ -1,0 +1,5 @@
+- Hi, my name is Dima - ✌️
+- I am 19 years old, I live in Russia, and I plan to go far, far away - 🇷🇺➡️🇵🇱
+- I want to try my hand at machine learning and creating neural networks - 🗣️👤
+- Maybe one day I will fulfill my dream and start creating games - 👾
+- Let's see where life leads, so far I'm learning Python - 🐍
